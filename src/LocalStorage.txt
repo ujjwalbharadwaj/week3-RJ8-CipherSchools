@@ -1,0 +1,9 @@
+Database <-------------->Backend <-------------> Frontend <-----------> Laptop
+                         Backend 
+                         Backend 
+                         Backend   to mange the load
+                                    we have multipel Backend
+
+Session Storage
+ESlint
+tell you that what are you not using
